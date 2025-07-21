@@ -39,7 +39,7 @@ function App() {
             <Route path="/" element={<Layout />}>
               <Route index element={<Home />} />
 
-              {/* Protected Routes Below */}
+              {/* Protected Routes Beloww */}
               <Route
                 path="/products"
                 element={
