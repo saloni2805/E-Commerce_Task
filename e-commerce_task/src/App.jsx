@@ -7,7 +7,7 @@ import {
   Routes,
   Navigate,
 } from "react-router-dom"
-import Home from "./pages/home/home"
+import Home from "./pages/home/Home"
 import AllProducts from "./pages/products/AllProducts"
 import CategoryProductsPage from "./pages/home/categories/CategoryProductsPage"
 import { ToastContainer } from "react-toastify"
